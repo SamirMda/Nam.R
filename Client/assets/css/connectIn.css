@@ -1,0 +1,44 @@
+body{
+	background-color: #FBFCF6;
+	height: 100%;
+	width: 100%;
+}
+
+#en-tete{
+	list-style-type: none;
+	text-align: right;
+	margin: 0;
+	padding: 0;
+	margin-right: 3%;
+}
+
+#en-tete ul li { 
+	display: inline;
+}
+
+#en-tete ul li a{
+	text-decoration: none;
+	padding: .2em 1em;
+	color: #fff;
+	background-color: #A8CB98;
+}
+
+#en-tete a:hover{
+	color: #fff;
+	background-color: #85967C;
+}
+
+#recherche{
+	text-align: center;
+	list-style-type: none;
+}
+
+#recherche ul li{display: inline;}
+
+.envoie {
+background:url(../../assets/images/valider.png);
+border:none;
+width: 70px; /* largeur à spécifier */
+height: 40px; /* longueur à spécifier */
+cursor: pointer;
+}

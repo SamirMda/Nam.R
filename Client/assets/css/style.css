@@ -1,0 +1,17 @@
+#slide-out{
+	transform: translateX(0%);
+}
+
+h2{
+	text-align: center;
+}
+
+#article{
+	height: 100%;
+	width: 80%;
+	margin-left: 10%;
+}
+
+a{
+	color: black;
+}

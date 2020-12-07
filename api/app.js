@@ -8,5 +8,5 @@ app.get('/list', (req,res) => {
 })
 
 module.exports = app.listen(8080,() => {
-	console.log('Serveur à l\'écoute au port 8080')
+	console.log('Serveur à l\'écoute sur port 8080')
 })
