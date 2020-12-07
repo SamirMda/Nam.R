@@ -1,6 +1,6 @@
 # Nam.R
 
-Ce projet contient l'ensemble des réponses au test de l'entreprise Nam.r
+Ce projet contient l'ensemble les réponses au test de l'entreprise Nam.r
 
 ## Scraping
 
