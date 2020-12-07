@@ -2,7 +2,7 @@
 
 ## Pré-requis
 
-Pour faire fonctionnerl'API veuillez ne pas changer l'architecture des dossiers contenue dans le git. La présence du dossier database ainsi que le fichier `database.json` sont nécessaire au bon déroulement du projet. 
+Pour faire fonctionnerl'API veuillez ne pas changer l'architecture des dossiers contenue dans le git. La présence du dossier `database` ainsi que le fichier `database.json` sont nécessaire au bon déroulement du projet. 
 
 Environnement technique nécessaire :
 * NodeJS
