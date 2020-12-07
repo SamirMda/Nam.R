@@ -12,4 +12,4 @@ Environnement technique:
 
 ## Démarrage
 
-Déplacer l'ensemble du dossier sur votre serveur PHP. Une fois celui-ci lancé, l'application est disponible à l'adresse suivante : `localhost/Client`
+Déplacer l'ensemble du dossier sur votre serveur PHP. Une fois celui-ci lancé, l'application est disponible à l'adresse suivante : `http://localhost/Client`
