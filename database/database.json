@@ -1,24 +1,24 @@
 {
   "data": [
     {
-      "title": "l_stationmt_autocar_r27.zip",
-      "latest": "https://www.data.gouv.fr/fr/datasets/r/0c5c3fb9-694a-4b44-a4fd-2981bfd34afc"
+      "title": "Export au format CSV",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/4615b0ef-2ea4-4a92-929a-7dfe59a894bd"
     },
     {
-      "title": "l_cagb_voies_cyclables_besancon_r27.zip",
-      "latest": "https://www.data.gouv.fr/fr/datasets/r/5d77db1f-d1f7-4e34-a6ec-60ec14695804"
+      "title": "Export au format CSV",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/6d11f18a-2bc9-471c-8607-9e11e38c62ea"
     },
     {
-      "title": "ga_arret_bhf_orizo.geojson",
-      "latest": "https://www.data.gouv.fr/fr/datasets/r/ef9a3769-795a-4855-9ac3-69f971cc9667"
+      "title": "Export au format CSV",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/37bf55af-9053-49c9-b7d7-8c33b83595c8"
     },
     {
-      "title": "gda_parc_jardin.geojson",
-      "latest": "https://www.data.gouv.fr/fr/datasets/r/041c8c9a-a127-4fa4-bb33-e3cd6acbbf26"
+      "title": "Export au format CSV",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a42ddc2e-c734-45e3-8302-a2c81e1411e5"
     },
     {
-      "title": "gda_culture_prog_18_19.csv",
-      "latest": "https://www.data.gouv.fr/fr/datasets/r/6a4cf578-fdfa-475b-83f2-14f19ddbf8c3"
+      "title": "Export au format CSV",
+      "latest": "https://www.data.gouv.fr/fr/datasets/r/a2176b5c-3c97-4e3e-9e84-f80896028f98"
     }
   ]
 }
